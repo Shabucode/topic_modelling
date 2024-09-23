@@ -1,0 +1,5 @@
+gensim
+nltk
+PyPDF2
+ipykernel
+sci-kit learn
